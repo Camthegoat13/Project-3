@@ -1,0 +1,31 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+.nav {
+    font-size: 24px; 
+    text-align: center;
+    word-spacing: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ffffff;
+    color-adjust: #ffffff;
+    padding: 25px;
+}
+.blog {
+    text-align: center;
+    Font-size: 50px;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    background-image: url(bear-photo.png);
+    height: 150vh;
+    background-position: center;
+    background-size: cover;
+    padding: 50px;
+}
+a {
+    color:hotpink;
+    transition: 1s all;
+}
+a:hover {
+    color: black;
+}
